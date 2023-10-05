@@ -1,0 +1,75 @@
+
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
+#parapinkreg {
+    color: #db0a81;
+}
+
+#paraorangereg {
+    color: #f56200;
+}
+
+.orangereg {
+    background-color: #f56200;
+    width: 100%;
+    height: 15px;
+}
+
+.pinkreg {
+    background-color: #db0a81;
+    width: 100%;
+    height: 60px;
+}
+
+.logoreg {
+    max-width: 300px;
+    margin-left: 600px;
+}
+
+.donut {
+    background-color: white;
+    /* border-color: rgb(92, 89, 89);*/
+    border-color: #d5d5d5;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10%;
+    margin: 20px;
+    width: 350px;
+    height: 450px;
+    text-align: center;
+    padding: 50px;
+    display: inline-block;
+}
+
+.name {
+    background-color: #db0a81;
+    border-radius: 27px;
+    border-color: #db0a81;
+    color: white;
+    font-size: 27px;
+    text-align: center;
+    width: 265px;
+    padding: 5px;
+    margin: 5px;
+    height: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.price {
+    background-color: #f56200;
+    border-color: #f56200;
+    border-radius: 27px;
+    color: white;
+    font-size: 27px;
+    text-align: center;
+    width: 265px;
+    padding: 5px;
+    margin: 5px;
+    height: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+
+

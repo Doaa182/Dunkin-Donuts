@@ -1,0 +1,62 @@
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
+#parapinkreg {
+    color: #db0a81;
+}
+
+#paraorangereg {
+    color: #f56200;
+}
+
+.orangereg {
+    background-color: #f56200;
+    width: 100%;
+    height: 15px;
+}
+
+.pinkreg {
+    background-color: #db0a81;
+    width: 100%;
+    height: 60px;
+}
+
+.logoreg {
+    max-width: 300px;
+    margin-left: 600px;
+}
+
+.menu44 {
+    background-color: white;
+    /* border-color: rgb(92, 89, 89);*/
+    border-color: #d5d5d5;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10%;
+    margin: 20px;
+    width: 350px;
+    height: 450px;
+    text-align: center;
+    padding: 50px;
+    display: inline-block;
+}
+    
+.name {
+    background-color: #db0a81;
+    border-radius: 27px;
+    border-color: #db0a81;
+    font-size: 27px;
+    text-align: center;
+    width: 203px;
+    padding: 5px;
+    height: 35px;
+    margin-top:5px;
+    margin-left: 60px;
+}
+
+    .name a {
+        text-decoration: none;
+        color: white;
+        font-family: 'Fredoka One', cursive;
+    }

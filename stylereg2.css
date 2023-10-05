@@ -1,0 +1,94 @@
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
+#parapinkreg {
+    color: #db0a81;
+}
+
+#paraorangereg {
+    color: #f56200;
+}
+
+.orangereg {
+    background-color: #f56200;
+    width: 100%;
+    height: 15px;
+}
+
+.pinkreg {
+    background-color: #db0a81;
+    width: 100%;
+    height: 60px;
+}
+
+.logoreg {
+    max-width: 300px;
+    margin-left: 600px;
+}
+
+.signupformmargin {
+    margin-left: 550px;
+    font-size: 29px;
+    text-transform: lowercase;
+    color: #482420;
+}
+    .signupformmargin :focus {
+        outline-color: #db0a81;
+    }
+
+    .submission {
+        display: block;
+        padding: 10px 20px;
+        background-color: #db0a81;
+        width: 225px;
+        height: 50px;
+        border: 2px solid #db0a81;
+        border-radius: 27px;
+        display: inline-block;
+        text-align: center;
+        float: inline-end;
+        margin-left: 100px;
+        margin-top: 30px;
+        font-size: 25px;
+        color: white;
+        font-family: 'Fredoka One', cursive;
+        margin-bottom: 40px;
+    }
+
+
+
+.in {
+    width: 500px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    color: #db0a81;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+}
+
+.signingup {
+    display: block;
+    padding: 10px 20px;
+    background-color: #f56200;
+    width: 225px;
+    height: 35px;
+    border: 2px solid #f56200;
+    border-radius: 27px;
+    text-align: center;
+    float: inline-end;
+    margin-left: 100px;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+    .signingup a {
+        color: white;
+        text-decoration: none;
+    }
+
+
+
+   

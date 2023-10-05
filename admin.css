@@ -1,0 +1,54 @@
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
+.orangeclass {
+    background-color: #f56200;
+    width: 100%;
+    height: 15px;
+}
+
+.pinkclass {
+    background-color: #db0a81;
+    width: 100%;
+    height: 60px;
+}
+
+h1 {
+    
+    margin-left: 588px;
+    font-size: 90px;
+    color: #f56200;
+    font-weight: bolder;
+}
+.logo a{
+    text-decoration:none;
+}
+.formargin {
+    margin-left:150px;
+    font-size: 29px;
+    text-transform: lowercase;
+    color: #db0a81;
+}
+
+#colordegree {
+    width: 200px;
+    height: 17px;
+}
+
+#orangecolorpicker {
+    width: 200px;
+    height: 17px;
+}
+
+#pinkcolorpicker {
+    width: 200px;
+    height: 17px;
+}
+
+
+#h1color {
+    width: 200px;
+    height: 17px;
+}
+

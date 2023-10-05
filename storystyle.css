@@ -1,0 +1,60 @@
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
+#parapinkreg {
+    color: #db0a81;
+}
+
+#paraorangereg {
+    color: #f56200;
+}
+
+.orangereg {
+    background-color: #f56200;
+    width: 100%;
+    height: 15px;
+}
+
+.pinkreg {
+    background-color: #db0a81;
+    width: 100%;
+    height: 60px;
+}
+
+.logoreg {
+    max-width: 300px;
+    margin-left: 600px;
+}
+
+
+p {
+    
+    display: block;
+    font-size: 23px;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-transform: lowercase;
+    color: #482420;
+   
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #f56200;
+    text-transform: lowercase;
+}
+
+.storyimg {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 125px;
+    margin-right: 20px;
+    margin-top: 60PX;
+    margin-bottom: 60PX;
+    border-radius: 30px;
+}
